@@ -1,2 +1,2 @@
 # hyperblog
-blog!
+blog nuevo!
