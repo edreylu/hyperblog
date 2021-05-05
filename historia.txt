@@ -5,6 +5,13 @@ jajajajjajaja
 <<<<<<< HEAD
 =======
 
+
+
+
+
+
+
+
 experimento 1
 <<<<<<< HEAD
 >>>>>>> experimento 1
