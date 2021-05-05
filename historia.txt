@@ -2,19 +2,10 @@ Un cambio totalmente nuevo
 soy edward gracias
 jajajajjajaja
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
 main 1
->>>>>>> alinear main en exp
 
 main 2
 
 experimento 1
-<<<<<<< HEAD
->>>>>>> experimento 1
-=======
 
 experimento 2
->>>>>>> experimento 2
