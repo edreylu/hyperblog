@@ -2,3 +2,8 @@ Un cambio totalmente nuevo
 soy edward gracias
 jajajajjajaja
 
+<<<<<<< HEAD
+=======
+
+experimento 1
+>>>>>>> experimento 1
