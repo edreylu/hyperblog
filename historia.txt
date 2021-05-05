@@ -6,4 +6,9 @@ jajajajjajaja
 =======
 
 experimento 1
+<<<<<<< HEAD
 >>>>>>> experimento 1
+=======
+
+experimento 2
+>>>>>>> experimento 2
