@@ -3,14 +3,13 @@ soy edward gracias
 jajajajjajaja
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+main 1
+>>>>>>> alinear main en exp
 
-
-
-
-
-
-
+main 2
 
 experimento 1
 <<<<<<< HEAD
